@@ -9,4 +9,4 @@ jobs:
         with:
           record: true
         env:
-          CYPRESS_RECORD_KEY: 2899ea68-054f-4abc-8fd3-ebff0c3e7bc0
+          CYPRESS_RECORD_KEY: 5f5d12b1-d905-41c0-997e-1ed7bd5d6903
